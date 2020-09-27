@@ -1,0 +1,4 @@
+﻿  snake.cpp
+c:\users\rpsmith8017\onedrive - florida gulf coast university\snakefinal\snakefinal\snakefinal\snake.cpp(22): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  SnakeFinal.vcxproj -> C:\Users\rpsmith8017\OneDrive - Florida Gulf Coast University\SnakeFinal\SnakeFinal\x64\Debug\SnakeFinal.exe
+  SnakeFinal.vcxproj -> C:\Users\rpsmith8017\OneDrive - Florida Gulf Coast University\SnakeFinal\SnakeFinal\x64\Debug\SnakeFinal.pdb (Partial PDB)
